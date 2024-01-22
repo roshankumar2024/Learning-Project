@@ -3,3 +3,11 @@
     font-family: 'Courier New', Courier, monospace;
     color: aqua;
 }
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+}
